@@ -10,7 +10,8 @@ library(Biostrings)
 library(ShortRead)
 library(ggplot2)
 
-setwd("c:/Users/mm3525/Software/DNA_Barcodes")
+# !!! PLEASE SET WORKING DIRECTORY BEFORE RUNING
+setwd("")
 source("scripts/HCBarcodePipeline.R")
 
 ## ............................................
